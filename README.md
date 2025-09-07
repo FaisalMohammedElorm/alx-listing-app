@@ -16,6 +16,6 @@ Scaffold a maintainable project structure that supports a listing page, reusable
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/alx-listing-app.git
+   git clone https://github.com/FaisalMohammedElorm/alx-listing-app.git
    cd alx-listing-app
-"# alx-listing-app" 
+
